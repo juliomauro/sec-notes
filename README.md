@@ -20,6 +20,14 @@ Short, practical, focused on the "why" behind misconfigurations and attack paths
 
 - [RBAC: When No Single Permission Seems Critical](kubernetes/rbac-when-no-single-permission-seems-critical.md)
 
+## Networking
+
+- [MeshCore Brazil: Decentralized Communication Without Infrastructure](networking/meshcore-brazil.md)
+
+## Security
+
+- [O Perigo Oculto de Julgar pela Aparência](security/the-hidden-danger-of-judging-by-appearances.md)
+
 ---
 
 ## Related

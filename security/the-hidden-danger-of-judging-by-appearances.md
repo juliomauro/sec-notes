@@ -1,46 +1,46 @@
-# O Perigo Oculto de Julgar pela Aparência
+# The Hidden Danger of Judging by Appearances
 
-> **Categoria:** Segurança · Engenharia Social · Comportamento  
-> **Nível:** Essencial  
+> **Category:** Security · Social Engineering · Behavior  
+> **Level:** Foundational  
 
 ---
 
-Você já julgou a capacidade ou a índole de alguém apenas pela roupa ou pela aparência física? Esse hábito pode parecer uma opinião inofensiva no dia a dia, mas, tecnicamente falando, ele revela exatamente o tipo de falha que um engenheiro social procura.
+Have you ever judged someone's competence or character based solely on their clothing or physical appearance? This habit may seem like a harmless opinion in everyday life, but technically speaking, it reveals exactly the kind of vulnerability a social engineer looks for.
 
-## O Mecanismo da Vulnerabilidade
+## The Mechanism Behind the Vulnerability
 
-Entrar em uma situação carregando preconceitos significa abandonar a análise racional e adotar "atalhos mentais" — os vieses cognitivos. O grande problema desses atalhos é que eles substituem a verificação de fatos pela simples "sensação". A mente preconceituosa não analisa o cenário de forma limpa; ela parte de um estereótipo e depois tenta forçar a realidade a se encaixar nessa narrativa pré-definida.
+Entering a situation loaded with preconceptions means abandoning rational analysis and defaulting to mental shortcuts — cognitive biases. The core problem with these shortcuts is that they replace fact-checking with gut feeling. A biased mind does not analyze the scenario cleanly; it starts from a stereotype and then tries to force reality to fit that predefined narrative.
 
-É exatamente nesse ponto cego que a Engenharia Social atua.
+That blind spot is precisely where social engineering operates.
 
-Diferente do que muitos pensam, engenharia social não é apenas ter "lábia" — é explorar os nossos processos mentais. O atacante não precisa ser um gênio; ele só precisa entender qual é o seu atalho cognitivo para acioná-lo.
+Contrary to what many believe, social engineering is not just about being smooth-talking — it is about exploiting our mental processes. The attacker does not need to be a genius; they only need to understand which cognitive shortcut you use and how to trigger it.
 
-## Os Gatilhos de Exploração
+## The Exploitation Triggers
 
-Os principais sinais de que você mudou da análise racional para o modo "vulnerável":
+The main signals that you have shifted from rational analysis into "vulnerable mode":
 
-**Senso de Urgência**  
-O atacante desperta o medo ou a pressa para forçar uma decisão rápida e impensada.
+**Sense of Urgency**  
+The attacker triggers fear or pressure to force a fast, unthinking decision.
 
-**Imposição de Autoridade**  
-O uso de crachás, uniformes ou linguagem técnica para intimidar e fazer você obedecer sem questionar.
+**Authority Imposition**  
+The use of badges, uniforms, or technical language to intimidate and make you comply without questioning.
 
-**Promessa de Vantagens**  
-A oferta de benefícios fáceis para explorar o gatilho da ganância.
+**Promise of Advantage**  
+Offers of easy benefits designed to exploit the greed trigger.
 
-**Manipulação de Estereótipos**  
-O golpista adapta o sotaque, a roupa e o comportamento para se alinhar exatamente com o que você considera "confiável" ou "superior".
+**Stereotype Manipulation**  
+The attacker adapts their accent, clothing, and behavior to align exactly with what you consider "trustworthy" or "superior."
 
-## A Armadilha da Aparência
+## The Appearance Trap
 
-Quando você usa a estética como o seu principal mecanismo de filtragem, um atacante minimamente esperto já sabe como contornar as suas defesas: ele se veste daquilo que você respeita e ataca enquanto você olha para o outro lado.
+When aesthetics become your primary filtering mechanism, a moderately skilled attacker already knows how to bypass your defenses: they dress the way you respect, and strike while you are looking the other way.
 
-O preconceito não melhora a nossa percepção de risco — ela a piora drasticamente. Ele substitui a prova pela impressão e a verificação pela embalagem.
+Bias does not improve risk perception — it makes it dramatically worse. It replaces proof with impression and verification with packaging.
 
-Muitos daqueles que se orgulham de "saber ler pessoas" baseados em aparências estão, na verdade, entregando o mapa da mina para o golpista, mostrando exatamente qual botão emocional ele precisa apertar.
+Many people who pride themselves on "reading people" based on appearances are, in fact, handing the attacker a map of exactly which emotional button to press.
 
-## A Regra
+## The Rule
 
-Em segurança, a regra é clara: ferramenta nenhuma substitui o comportamento, e nenhuma impressão substitui a evidência.
+In security, the rule is clear: no tool replaces behavior, and no impression replaces evidence.
 
-Nas suas tomadas de decisão — seja na empresa ou na vida pessoal — você tem exigido provas e fatos, ou tem se contentado apenas com a embalagem?
+In your decision-making — whether at work or in personal life — are you demanding proof and facts, or settling for the packaging?

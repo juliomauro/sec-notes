@@ -1,4 +1,9 @@
-# Case Study: The "Misantropia" Security Incident and the National Alert System Failure
+# Case Study: The "Misantropia" Incident and the Brazilian National Alert System Failure
+
+> **Category:** Security · Incident Analysis
+> **Level:** Foundational
+
+---
 
 Between the night of June 19 and the early morning of June 20 2026, the Brazilian national emergency alert system (Defesa Civil Alerta) suffered a critical security compromise. This incident resulted in fake extreme emergency pop-ups being pushed to mobile devices across ten states, including major metropolitan areas in São Paulo, Rio de Janeiro and Paraná.
 
@@ -10,7 +15,7 @@ Here is a detailed analysis of the incident, the underlying system vulnerabiliti
 
 ## The Attack Vector and Threat Actor Profile
 
-The security breach was not the result of a sophisticated exploit chain or an advanced zero-day vulnerability. Instead, it was executed by an inexperienced underage individual operating under the pseudonym "Misantropo" (or "Misantropia Z" on social media). The threat actor utilized leaked credentials that had been publicly available on the internet for approximately five years.
+The security breach was not the result of a sophisticated exploit chain or an advanced zero-day vulnerability. Instead, it was executed by an inexperienced underage individual whose online handle was "Misantropo" and who used "Misantropia Z" on social media. The incident became publicly known as "Misantropia" — derived from the word the attacker repeatedly embedded in the fake alerts, including the variation "misantropi4". The threat actor utilized leaked credentials that had been publicly available on the internet for approximately five years.
 
 The attacker compromised the accounts of three military firefighters from the Civil Defense Coordination of Pará. The most impactful account belonged to a 2nd Sergeant, whose administrative privileges allowed the broadcasting of alerts to eight different states.
 

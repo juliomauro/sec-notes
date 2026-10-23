@@ -27,6 +27,7 @@ Short, practical, focused on the "why" behind misconfigurations and attack paths
 ## Security
 
 - [PHP2Shell: 72 Hours of Internet-Wide Panic](security/php2shell-72-hours-of-internet-wide-panic.md)
+- [Relapse: The Browser Bug That Opened the PS5's Kernel](security/relapse-the-browser-bug-that-opened-the-ps5-kernel.md)
 - [The "Misantropia" Incident: Brazil's National Alert System Failure](security/misantropia-Security-Incident-and-the-Brazillian-National-Alert-System-Failure.md)
 - [O Perigo Oculto de Julgar pela Aparência](security/the-hidden-danger-of-judging-by-appearances.md)
 

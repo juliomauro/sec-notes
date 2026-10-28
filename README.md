@@ -26,6 +26,7 @@ Short, practical, focused on the "why" behind misconfigurations and attack paths
 
 ## Security
 
+- [Smart Sampa: Structural Cybersecurity Failures and Contractual Fragility](security/smart-sampa-structural-cybersecurity-failures-and-contractual-fragility.md)
 - [BootROM Leak: The Key 95 Million PS5s Can't Replace](security/bootrom-leak-the-key-95-million-ps5s-cant-replace.md)
 - [PHP2Shell: 72 Hours of Internet-Wide Panic](security/php2shell-72-hours-of-internet-wide-panic.md)
 - [Relapse: The Browser Bug That Opened the PS5's Kernel](security/relapse-the-browser-bug-that-opened-the-ps5-kernel.md)
